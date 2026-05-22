@@ -25,8 +25,6 @@ xdd-skill/
 │   └── meta-model/                    # 逆向结构化模型（10文件）
 │
 ├── references/               # xdd-agent 原始引用
-├── scripts/                  # 工具脚本
-│   └── satir_deidentify.py  # 姓名脱敏脚本
 │
 └── SKILL.md                  # xdd-agent SKILL.md（原始版）
 ```
